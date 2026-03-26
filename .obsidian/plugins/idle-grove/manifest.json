@@ -1,0 +1,9 @@
+{
+  "id": "idle-grove",
+  "name": "Idle Grove",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Gamified productivity companion — view your worlds, manage tasks, and auto-sync notes without manual git push.",
+  "author": "Brian Helewa",
+  "isDesktopOnly": false
+}

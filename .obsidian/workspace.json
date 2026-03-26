@@ -27,32 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Welcome"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d8521c9f5cbf10c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f9ca5b899563d2d6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2a02a3eab2810d2",
+  "active": "a5f9aa10ea72df56",
   "lastOpenFiles": [
-    "Welcome.md",
     "Test.md",
+    "create a link.md",
+    "Welcome.md",
     "desktop.ini"
   ]
 }
