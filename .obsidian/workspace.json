@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1107.5
+    "width": 883.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +197,11 @@
   },
   "active": "834eaf6471e56f58",
   "lastOpenFiles": [
+    "create a link.md",
     "Welcome.md",
+    "Test.md",
     "Inovasity/First Meeting.md",
     "Inovasity",
-    "Test.md",
-    "create a link.md",
     "desktop.ini"
   ]
 }
