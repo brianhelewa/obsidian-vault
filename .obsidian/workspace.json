@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1222.5
+    "width": 806.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +196,7 @@
       "idle-grove:Open Idle Grove": false
     }
   },
-  "active": "1dca3841962afae2",
+  "active": "834eaf6471e56f58",
   "lastOpenFiles": [
     "Test.md",
     "create a link.md",
