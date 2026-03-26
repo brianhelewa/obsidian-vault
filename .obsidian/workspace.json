@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Inovasity/First Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "First Meeting"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa1c385ef98123a5",
@@ -198,9 +197,11 @@
   },
   "active": "834eaf6471e56f58",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Inovasity/First Meeting.md",
+    "Inovasity",
     "Test.md",
     "create a link.md",
-    "Welcome.md",
     "desktop.ini"
   ]
 }
