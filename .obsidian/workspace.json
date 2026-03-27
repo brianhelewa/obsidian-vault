@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Inovasity Workflows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Inovasity Workflows"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "aa1c385ef98123a5",
@@ -185,17 +185,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Inovasity Workflows.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Inovasity Workflows"
             }
           },
           {
-            "id": "1dca3841962afae2",
+            "id": "c703b941cdf307b5",
             "type": "leaf",
             "state": {
               "type": "idle-grove-sidebar",
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 883.5
+    "width": 1057.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,12 +226,12 @@
   },
   "active": "65472aecf68c544b",
   "lastOpenFiles": [
+    "Test.md",
+    "create a link.md",
     "Untitled.md",
+    "Inovasity/First Meeting.md",
     "Inovasity Workflows.md",
     "Welcome.md",
-    "Inovasity/First Meeting.md",
-    "create a link.md",
-    "Test.md",
     "Inovasity",
     "desktop.ini"
   ]
