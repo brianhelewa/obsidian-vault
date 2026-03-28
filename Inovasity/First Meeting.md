@@ -1,0 +1,6 @@
+- Spring Quarter Overview Slides
+- Onboarding process
+	- Compile NDA and Agreement forms to a folder
+	- Set up Git Repo and send it to them
+- Set up weekly meetings (following when2meet availabilities)
+- 
