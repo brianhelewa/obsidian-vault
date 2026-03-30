@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "834eaf6471e56f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "34fd3c0bbfb5b269",
             "type": "leaf",
             "state": {
@@ -41,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inovasity/MediMorphAI Model Training Integration Plan.md",
+                "file": "Inovasity Workflows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MediMorphAI Model Training Integration Plan"
+              "title": "Inovasity Workflows"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,16 +213,42 @@
   },
   "active": "65472aecf68c544b",
   "lastOpenFiles": [
-    "Inovasity/GitHub Organization.md",
+    "image13.png",
+    "image12.png",
+    "image11.png",
+    "image10.png",
+    "image9.png",
+    "image8.png",
+    "image7.png",
+    "image6.png",
+    "image5.png",
+    "image4.png",
+    "image3.png",
+    "Inovasity/CHANGELOG.md",
+    "Inovasity/VIEWER_INTEGRATION.md",
+    "Inovasity/VIEWER_FIXES_ROBUST.md",
+    "Inovasity/SYNTHETIC_DATASET.md",
+    "Inovasity/RUN_FOLDER_SCHEMA.md",
+    "Inovasity/PROGRESS_TRACKING.md",
+    "Inovasity/PATENT_UPDATE_PROMPT.md",
+    "Inovasity/OUTPUT_CONTRACT.md",
+    "Inovasity/ONBOARDING.md",
+    "Inovasity/DEV_GUIDE.md",
+    "Inovasity/DESIGN_V2.md",
+    "Inovasity/CLINICAL_VIEWER.md",
+    "Inovasity/BACKLOG.md",
+    "Inovasity/ARCHITECTURE.md",
+    "Inovasity/QUICK_START_VIEWER.md",
     "Inovasity/MediMorphAI Model Training Integration Plan.md",
+    "Inovasity/VIEWER_FIXES_SUMMARY.md",
+    "Inovasity/IMPLEMENTATION_PLAN.md",
+    "Inovasity/CONTRIBUTING.md",
+    "Inovasity/CHANGES_SUMMARY.md",
+    "Inovasity/GitHub Organization.md",
     "Inovasity/First Meeting.md",
     "Inovasity/Inovasity Website.md",
     "Inovasity Workflows.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "create a link.md",
-    "Welcome.md",
-    "Test.md",
     "Inovasity",
     "desktop.ini"
   ]
