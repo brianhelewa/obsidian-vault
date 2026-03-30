@@ -16,3 +16,6 @@
 Draft a protocol and update Susan 
 
 ## Meeting with Alejandro 
+Research into how to train models (especially with Synthetic Data for what we are doing)
+- How to train and how to utilize NVIDIA DGX Spark
+- What models are used for training and how to go about it

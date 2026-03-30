@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inovasity/Inovasity Website.md",
+                "file": "Inovasity/First Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inovasity Website"
+              "title": "First Meeting"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "65472aecf68c544b",
   "lastOpenFiles": [
-    "Inovasity/First Meeting.md",
     "Inovasity/Inovasity Website.md",
+    "Inovasity/First Meeting.md",
     "Inovasity Workflows.md",
     "Untitled.md",
     "Untitled 1.md",
