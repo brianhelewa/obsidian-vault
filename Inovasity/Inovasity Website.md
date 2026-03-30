@@ -1,0 +1,2 @@
+- Make sure to add Inovasity.Inc at the fotter
+- Make sure to change the domain for the website from .io to .ai
