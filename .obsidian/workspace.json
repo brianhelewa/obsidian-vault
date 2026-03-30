@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inovasity/GitHub Organization.md",
+                "file": "Inovasity/MediMorphAI Model Training Integration Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Organization"
+              "title": "MediMorphAI Model Training Integration Plan"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 946.5
+    "width": 946.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +227,9 @@
   },
   "active": "65472aecf68c544b",
   "lastOpenFiles": [
-    "Inovasity/First Meeting.md",
     "Inovasity/GitHub Organization.md",
+    "Inovasity/MediMorphAI Model Training Integration Plan.md",
+    "Inovasity/First Meeting.md",
     "Inovasity/Inovasity Website.md",
     "Inovasity Workflows.md",
     "Untitled.md",
